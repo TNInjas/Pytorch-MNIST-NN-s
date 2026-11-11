@@ -4,8 +4,6 @@ A hands-on PyTorch project where I classify handwritten digits (MNIST) with thre
 
 I started this to brush up on PyTorch fundamentals. The goal along the way was simple: **start with a plain fully-connected network, then push towards 99% accuracy.**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EMP0RI0M/pytorch-mnist-cnn/blob/main/notebooks/mnist_classification.ipynb)
-
 ## Results
 
 | Model | Architecture | Epochs | Test accuracy |
